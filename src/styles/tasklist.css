@@ -1,0 +1,26 @@
+.tasklist-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+
+.task-name {
+  display: flex;
+  align-items: center;
+}
+.task-name img {
+  margin: 5px;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+}
+.date img {
+  margin: 5px;
+}
+.done-delete img {
+  margin: 5px;
+}

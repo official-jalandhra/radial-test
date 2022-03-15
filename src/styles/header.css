@@ -1,0 +1,26 @@
+.header {
+  margin: auto;
+  background-color: blue;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100px;
+}
+.hello-with-name {
+  margin-left: 150px;
+  font-size: 30px;
+  color: white;
+}
+
+.name {
+  position: relative;
+  bottom: 10px;
+}
+.button-container {
+  margin-right: 150px;
+}
+.button-container button {
+  border: none;
+  border-radius: 2px;
+  padding: 5px 10px;
+}
